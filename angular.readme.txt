@@ -1,0 +1,11 @@
+Please use npm i before running, I have deleted all the node module package due to its bulk wait.
+
+1. npm i @ng-bootstrap/ng-bootstrap@14.x.x --save, ng add @ng-bootstrap/ng-bootstrap
+2. npm i bootstrap@5.2.3 --save
+3. npm i @auth0/angular-jwt@5.2.0
+4. npm i sweetalert2@11.10.7
+
+Angular Version: 15.0.5
+Node Version: 18.12.0
+
+implemented Services, Directives, Interceptors.
